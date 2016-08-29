@@ -4,6 +4,8 @@
 
 这是一篇有主见的Node.js新手开发指南。
 
+(原文地址：https://github.com/cuitianze/no-fullstack-no-fe/blob/master/1-Node.js入门指南.md)
+
 ### 为何而生
 你总是浪费时间在:
 
