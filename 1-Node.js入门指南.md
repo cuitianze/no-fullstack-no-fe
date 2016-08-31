@@ -40,25 +40,25 @@
 * 是否适合日常实际开发?
 * 是否和指南里提到的其他方案完美配合?
 
-## Contents
+## 目录
 
-1. [The Golden Rule: avoid coding wherever possible](#the-golden-rule-avoid-coding-wherever-possible)
-1. [General problems](#general-problems)
-  1. [Node.js version](#nodejs-version)
-  1. [Development environment](#development-environment)
-  1. [Workflow](#workflow)
-  1. [File and folder structure](#file-and-folder-structure)
-  1. [Coding style](#coding-style)
-  1. [Native modules and Windows](#native-modules-and-windows)
-1. [Developing for the web](#developing-for-the-web)
-  1. [Technology stack](#technology-stack)
-1. [Developing a package](#developing-a-package)
-  1. [Version numbering](#version-numbering)
-1. [Developing mobile applications](#developing-mobile-applications)
-1. [Developing desktop applications](#developing-desktop-applications)
-  1. [Cross platform framework](#cross-platform-framework)
-1. [Upcoming sections](#upcoming-sections)
-1. [Contributing](#contributing)
+1. [金科玉律: 尽可能少写代码](#the-golden-rule-avoid-coding-wherever-possible)
+1. [常见问题](#general-problems)
+  1. [Node.js 版本](#nodejs-version)
+  1. [开发环境](#development-environment)
+  1. [工作流](#workflow)
+  1. [文件与文件夹结构](#file-and-folder-structure)
+  1. [编码风格](#coding-style)
+  1. [原生模块和Windows系统](#native-modules-and-windows)
+1. [web开发](#developing-for-the-web)
+  1. [技术栈](#technology-stack)
+1. [开发一个包](#developing-a-package)
+  1. [版本号](#version-numbering)
+1. [开发移动应用](#developing-mobile-applications)
+1. [开发桌面应用](#developing-desktop-applications)
+  1. [跨平台框架](#cross-platform-framework)
+1. [即将更新](#upcoming-sections)
+1. [贡献](#contributing)
 1. [License](#license)
 
 # The Golden Rule: avoid coding wherever possible
