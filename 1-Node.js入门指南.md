@@ -42,7 +42,7 @@
 
 ## 目录
 
-1. [金科玉律: 尽可能少写代码](#the-golden-rule-avoid-coding-wherever-possible)
+1. [金科玉律: 尽可能少写代码](#金科玉律: 尽可能少写代码)
 1. [常见问题](#general-problems)
   1. [Node.js 版本](#nodejs-version)
   1. [开发环境](#development-environment)
@@ -61,21 +61,21 @@
 1. [贡献](#contributing)
 1. [License](#license)
 
-# The Golden Rule: avoid coding wherever possible
-Be **optimally lazy**. There are only two principles:
+# 金科玉律: 尽可能少写代码
+最佳的偷懒，只有两个原则:
 
-1. The fastest way to finish a task is to do nothing
-  * Ask yourself if you can live without it
-  * Less code means less bugs
-  * See also:
+1. 完成一个任务的最快方式就是什么也不做
+  * 问问你自己，如果没有它是否还能运行应用
+  * 越少的代码意味着越少的bug
+  * 相关推荐:
     * [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) (YAGNI)
     * [Customer development](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html)
     * [Minimum viable product](http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html) (MVP)
-1. The second fastest way to finish a task is to get someone else to do it
-  * For example, this playbook is an example of using someone else's work to get ahead
-  * Use [Node.js core API](https://nodejs.org/api/) if you can get away with it
-  * Use pre-built pieces of code, such as [npm packages](https://www.npmjs.com/)
-    * Make sure your dependencies are of high quality
+1. 完成一个任务的第二快方式是站在巨人的肩膀上
+  * 举个例子, 本指南就是众人的工作总结
+  * 使用 [Node.js 核心 API](https://nodejs.org/api/) 
+  * 使用已有的代码段, 比如 [npm packages](https://www.npmjs.com/)
+    * 确保你使用的都是高质量的依赖
 
 # General problems
 This section covers general problems regardless of your development goals.
