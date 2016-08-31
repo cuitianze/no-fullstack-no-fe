@@ -42,7 +42,7 @@
 
 ## 目录
 
-1. [金科玉律: 尽可能少写代码](#金科玉律: 尽可能少写代码)
+1. [金科玉律: 尽可能少写代码](#the-golden-rule-avoid-coding-wherever-possible)
 1. [常见问题](#general-problems)
   1. [Node.js 版本](#nodejs-version)
   1. [开发环境](#development-environment)
@@ -62,6 +62,7 @@
 1. [License](#license)
 
 # 金科玉律: 尽可能少写代码
+###### the-golden-rule-avoid-coding-wherever-possible
 最佳的偷懒，只有两个原则:
 
 1. 完成一个任务的最快方式就是什么也不做
