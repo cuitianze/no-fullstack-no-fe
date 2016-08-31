@@ -11,8 +11,8 @@
 
 * 发现/研究Node.js最基础的方面, 在实现相同工作的几个工具中纠结地选择。
 
-### 推荐捷径
-追随指南. 它推荐了最基本的选择，让你专注在编程上，而不是设置。
+### 学习推荐
+追随指南. 它推荐了最基本的选择，让你专注在编程上，而不是在配置上。
 
 ### 为谁而生
 
@@ -27,18 +27,18 @@
 * 这不会替代你阅读官方文档的需求
 * 不是所有的建议都为Node.js量身打造
 
-### How solutions were chosen
+### 如何选择解决方案？
 
-Each solution was chosen after balancing:
+解决方案的选择需要先权衡以下几点:
 
-* is it mature? (look for a version 1)
-* is it actively maintained?
-* does it have good documentation?
-* is it popular? (so that you can find lots of tutorials and a support community)
-* is it free and open source? (as much as possible, except for hosting and domains)
-* is it easy to learn?
-* is it practical to use daily?
-* does it work well with the rest of the playbook?
+* 是否成熟? (看看有没有发布版本1)
+* 是否被积极地维护?
+* 是否有一个好的文档?
+* 是否流行? (因而你可以找到大量的教程和支持的社区)
+* 是否免费开源? (尽可能，除了服务器托管和域名)
+* 是否易学?
+* 是否适合日常实际开发?
+* 是否和指南里提到的其他方案完美配合?
 
 ## Contents
 
